@@ -24,7 +24,7 @@ perfume-collection/
 
 ---
 ## Live Site
-[Click here to view the live site]([https://yourusername.github.io/perfume-collection/](https://thennarasu07.github.io/Perfume1/))
+[Click here to view the live site](https://thennarasu07.github.io/Perfume1/)
 
 ---
 
